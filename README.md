@@ -21,9 +21,9 @@
 >
 > **AI 会完成：** 查地点与入口、转换坐标、核对真实步行路线、自动拆分地图、生成文案和底图、修改代码并运行测试。
 
-## 12 张图看懂如何用 Codex 制作
+## 13 张图看懂如何用 Codex 制作
 
-[![AI Vibe Coding × Exploration Atlas：12 张教程图总览](docs/tutorial/00-preview-grid.png)](docs/AI_VIBE_CODING_TUTORIAL.md)
+[![AI Vibe Coding × Exploration Atlas：13 张教程图总览](docs/tutorial/00-preview-grid.png)](docs/AI_VIBE_CODING_TUTORIAL.md)
 
 从找到 GitHub 项目、让 Codex 阅读规则、输入地点与礼物，到地点核验、步行分图、自动制作、本地预览和线下彩排，完整步骤见 [AI Vibe Coding 图示教程](docs/AI_VIBE_CODING_TUTORIAL.md)。教程中的 Codex 界面根据真实操作流程复刻，所有地点均为公开示例或通用占位。
 
