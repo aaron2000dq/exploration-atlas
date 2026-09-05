@@ -95,9 +95,9 @@ AI 会查询实际步行路线，检查河流、高架、封闭园区、累计�
 
 ## 13｜教程完成
 
-![教程完成与 GitHub 开源项目](tutorial/13-tutorial-complete.png)
+![教程完成与 Exploration Atlas 项目名称](tutorial/13-tutorial-complete.png)
 
-希望能帮你给在意的Ta提供一次奇妙的「活点地图」之旅。项目地址：[aaron2000dq/exploration-atlas](https://github.com/aaron2000dq/exploration-atlas)。
+希望能帮你给在意的Ta提供一次奇妙的「活点地图」之旅。项目名称：Exploration Atlas。
 
 ## 可直接发给 Codex 的首次提示词
 
