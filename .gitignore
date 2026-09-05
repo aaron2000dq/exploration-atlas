@@ -1,0 +1,55 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# testing
+/coverage
+/test-results/
+/playwright-report/
+
+# next.js
+/.next/
+/.vinext/
+/out/
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# env files (can opt-in for committing if needed)
+.env*
+
+# vercel
+.vercel
+
+# typescript
+next-env.d.ts
+*.tsbuildinfo
+/dist/
+/.wrangler/
+/outputs/
+/output/
+/work/
+/artifacts/
+/tmp/
+
+# Personal release notes and private working files are not part of the template.
+/docs/小红书发布复盘-网页制作需求文档.md
+/docs/PROJECT_BRIEF.local.md
+/.private-audit-terms
+/private/
+/public/private/
