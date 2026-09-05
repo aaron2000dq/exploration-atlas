@@ -24,11 +24,20 @@
 
 这是一张可以在纪念日使用的活点地图。它适合生日、周年和其他重要日子：TA 从开启邀请开始，跟随地图寻找你设置的地点，抵达后触发照片任务与惊喜揭晓，最后完成整场探索。你决定地点与惊喜，AI 负责地图、定位解锁、触发逻辑和网页制作。
 
-## 03｜在 GitHub 找到项目
+## 03｜选择一种开始方式
 
 ![让 Codex 在 GitHub 找到项目](tutorial/03-find-on-github.png)
 
-把本仓库链接交给 Codex；如果只记得项目名称，也可以让 Codex 搜索后请你确认。
+有动手改造能力，可以在 GitHub 找到 Exploration Atlas，下载到本地，按 README 修改并启动。
+
+想借助 Vibe Coding，可以使用 Codex、WorkBuddy 等 AI 编程工具，把下面这句话复制给它：
+
+```text
+请帮我打开 GitHub 项目 aaron2000dq/exploration-atlas。
+先阅读 README.md，再按说明在本地启动；暂时不要修改代码。
+```
+
+AI 会阅读项目说明、安装依赖、启动本地预览，并把访问地址发给你。本教程统一用 Codex 演示，也可以换成其他常用 AI 编程工具。
 
 ## 04｜让 Codex 先读项目规则
 
